@@ -1,3 +1,8 @@
+# Custom ignores 
+COMMIT_MESSAGE  # file that contains the commit message
+*.swp           # vim swp 
+
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
